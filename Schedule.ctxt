@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Schedule
+comment0.text=\r\n\ formats\ information\ from\ train\ class\ to\ be\ printed\ in\ schedule\ app\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 2/21/20\r\n
+comment1.params=fileName
+comment1.target=Schedule(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Schedule\r\n\ @param\ fileName\ -\ string\ thet\ is\ the\ name\ of\ the\ file\r\n\ @throws\ FileNotFoundException\r\n
+comment2.params=fileName
+comment2.target=void\ fillArray(java.lang.String)
+comment2.text=\r\n\ Fills\ the\ array\ with\ the\ contents\ of\ the\ file\ that\ is\ read\r\n\ @param\ filename\ -\ String\ that\ allows\ to\ read\ and\ take\ in\ information\r\n\ \r\n
+comment3.params=
+comment3.target=Train\ fastestTrain()
+comment3.text=\r\n\ It\ finds\ the\ fastest\ train\ \r\n
+comment4.params=
+comment4.target=void\ sortDeparture()
+comment4.text=\r\n\ This\ sorts\ the\ departure\ times\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ a\ method\ that\ returns\ the\ result\ as\ a\ string\r\n
+numComments=6
